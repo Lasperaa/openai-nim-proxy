@@ -26,7 +26,7 @@ const MODEL_MAPPING = {
   'deepseek-ai/deepseek-v4-flash-0731': 'deepseek-ai/deepseek-v4-flash-0731',
   'openai/gpt-oss-20b': 'openai/gpt-oss-20b',
   'poolside/laguna-xs-2.1': 'poolside/laguna-xs-2.1',
-  'claude-3-opus': 'openai/gpt-oss-120b',
+  'minimaxai/minimax-m3': 'minimaxai/minimax-m3',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
 };
